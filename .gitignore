@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.vs
+bin
+obj
+Annotation-Demo.csproj
+Annotation-Demo.sln
+
